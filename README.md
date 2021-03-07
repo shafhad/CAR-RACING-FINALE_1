@@ -1,1 +1,1 @@
-# Plyer Rank
+# player Rank
